@@ -5,7 +5,7 @@ my name is Davian Dantrel Mcwhorter
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation Configuration](  
+  - [osTicket: Prerequisites and Installation Configuration](  https://github.com/dantrel1990/os-ticket-prereqs/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dantrel1990/ticket-life-cycle-examples/blob/main/README.md )
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
