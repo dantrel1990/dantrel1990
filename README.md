@@ -9,7 +9,7 @@ my name is Davian Dantrel Mcwhorter
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dantrel1990/ticket-life-cycle-examples/blob/main/README.md )
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]( https://github.com/dantrel1990/configure-ad/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dantrel1990/network-security-groups-and-inspecting-network-protocols/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
